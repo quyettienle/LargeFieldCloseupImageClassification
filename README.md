@@ -9,6 +9,7 @@ Vietnam Maritime University, Hai Phong, VIETNAM
 
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
 Copyright (c) 2019 GIPSA Lab, Grenoble Alpes University, Saint Martin d’Hères Cedex FRANCE
+
 All rights reserved.
 
 Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this database (the images, the results and the source files) and its documentation for any purpose, provided that the copyright  notice in its entirity appear in all copies of this database, and the original source of this database, GIPSA Lab, Grenoble Alpes University, Saint Martin d’Hères Cedex FRANCE
@@ -24,13 +25,16 @@ IN NO EVENT SHALL GIPSA LAB BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL
 
 GIPSA LAB SPECIFICALLY DISCLAIMS ANY WARRANTIES,INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATABASE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND GIPSA LAB HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
-The database is meant to be used strictly for non-profit educational purposes. 
+The database is meant to be used strictly for non-profit educational purposes.
+
 -----------COPYRIGHT NOTICE ENDS WITH THIS LINE------------
 
 Please contact Mr. Le (tienlqcnt@vimaru.edu.vn) if you have any questions.
 
 -------------------------------------------------------------------------
 There are 2 parts in the database:
+
 - Large filed / close-up images with EXIF database (Downloaded from Flickr website). The information of a picture includes a JPG file and a TXT file. The TXT file contains a line formated as <aperture>,<focal length>,<exposure time>,<ISO> 
+
 - Large filed / close-up images without EXIF database (Extracted from CUHKPQ database).
 

@@ -4,6 +4,7 @@ Large field / close-up image classification
 -------------------------------------------------------------------------
 
 GIPSA Lab, Grenoble Alpes University, Saint Martin d’Hères Cedex FRANCE
+
 Vietnam Maritime University, Hai Phong, VIETNAM
 
 -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
